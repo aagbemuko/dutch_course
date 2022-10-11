@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.log
+
+
+# PDF files
+*.pdf
+
+
+# data files
+*.csv
+*.xlsx
+*.docx
+*.csv
+*.pptx
+
+profile_default/
+ipython_config.py
+
+
+
+# Image files
+*.png
+*.jpg
+*.svg
