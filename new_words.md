@@ -3,26 +3,40 @@
 ## Words
 ---
 ### Generic words
-verbeter        --> to correct
-periode         --> period, time
-straks          --> soon
-samen           --> together
-graag           --> gladly, with pleasure, ...
-kantine         --> kanteen
-buurt           --> neighborhood
-reizen          --> to travel
-veel            --> a lot
-huisman         --> househusband
-echtgenoot      --> husband, spouse, partner
-zorg            --> to take care of
-huishouden      --> household
-leeftijd        --> age
-haar            --> hair, her
+- verbeter        --> to correct
+
+- periode         --> period, time
+
+- straks          --> soon
+
+- samen           --> together
+
+- graag           --> gladly, with pleasure, ...
+
+- kantine         --> kanteen
+
+- buurt           --> neighborhood
+
+- reizen          --> to travel
+
+- veel            --> a lot
+
+- huisman         --> househusband
+
+- echtgenoot      --> husband, spouse, partner
+
+- zorg            --> to take care of
+
+- huishouden      --> household
+
+- leeftijd        --> age
+
+- haar            --> hair, her
 
 
 ### Pronouns
-haar            --> her
-allemaal        --> everything, everybody, altogether, ...
+- haar            --> her
+- allemaal        --> everything, everybody, altogether, ...
 
 ### Prepositions
 - bij           --> by
