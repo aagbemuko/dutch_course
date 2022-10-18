@@ -4,34 +4,21 @@
 ---
 ### Generic words
 - verbeter        --> to correct
-
 - periode         --> period, time
-
 - straks          --> soon
-
 - samen           --> together
-
 - graag           --> gladly, with pleasure, ...
-
 - kantine         --> kanteen
-
 - buurt           --> neighborhood
-
 - reizen          --> to travel
-
 - veel            --> a lot
-
 - huisman         --> househusband
-
 - echtgenoot      --> husband, spouse, partner
-
 - zorg            --> to take care of
-
 - huishouden      --> household
-
 - leeftijd        --> age
-
 - haar            --> hair, her
+- vroeg           --> early
 
 
 ### Pronouns
@@ -68,6 +55,7 @@
 - rustige       --> calm, quiet, serene, etc.
 - gezellig      --> cosy
 - mooi          --> pretty
+- heel          --> very
 
 ### Colors
 
@@ -78,13 +66,22 @@
 ### Time of the day
 - in de voormiddag  --> in the morning (06-12)
 - in de namiddag    --> in the afternoon (12-18) e.g. zaterdagmiddag --> saturday afternoon
----
+
+#### Yesterday, today, tomorrow
+- gisteren --> yesterday
+- vandaag --> today
+- morgen    --> tomorrow
+
+#### Day-time of day
+- mandag, dinsdag, woensdag, donderdag...(morgen) i.e monday morning, tuesday morning, ...
+- mandag, dinsdag, woensdag, donderdag...(middag) i.e monday afternoon, tuesday afternoon, ...
+- mandag, dinsdag, woensdag, donderdag...(avond) i.e monday evening, tuesday evening, ...
 
 
 
 
 ### Greetings and conversations that follow
-- hoe gaat het/hoe gaat het met jou?
+- hoe gaat het/hoe gaat het met jou/alles is in orde?
     - positives:
         - Alles goed
         - met mij gaat het goed --> it goes good with me
@@ -103,5 +100,14 @@
 - nog een prettige dag --> have a nice day
 
 
+### Conversations related to time of day
+- ik eet 's middag een botherham
+- ik werk de hele dag
+- ik drink de hele dag koffie
+- ik ga 's avonds en 's nacht uit
+
 ### Conversations with someone
-jij bent snel boos      --> you get very angry easily
+- jij bent snel boos      --> you get very angry easily
+- hoe spel je dat?        --> how do you spell that?
+
+
