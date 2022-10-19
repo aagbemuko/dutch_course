@@ -19,13 +19,16 @@
 - leeftijd        --> age
 - haar            --> hair, her
 - vroeg           --> early
+- gezicht         --> face
+- handen          --> hands
 
 
 ### Pronouns
 - haar            --> her
 - allemaal        --> everything, everybody, altogether, ...
+- hun             --> their
 
-### Prepositions
+### Prepositions/Adverbs
 - bij           --> by
 - on
 - met           -->  with
@@ -35,6 +38,17 @@
 - dus           --> so, thus, therefore, ...
 - dicht bij     --> close to..., near..., 
 - welke         --> which
+- bijna         --> almost
+
+
+### Verbs
+- Opstaan       --> to get up
+- wassen        --> to wash (face, body, ...)
+- blijven       --> to stay
+- koken         --> to cook
+- spelen        --> to play (game, ...)
+- kijken        --> to watch (tv, ...)
+
 
 ### Time of the day
 - 's morgens    --> morning
@@ -109,5 +123,6 @@
 ### Conversations with someone
 - jij bent snel boos      --> you get very angry easily
 - hoe spel je dat?        --> how do you spell that?
+- ik eet elke dag ontbijten --> I eat breakfast every day
 
 
