@@ -39,6 +39,8 @@
 - dicht bij     --> close to..., near..., 
 - welke         --> which
 - bijna         --> almost
+- waar          --> where
+- hoeveel       --> how many
 
 
 ### Verbs
@@ -48,11 +50,24 @@
 - koken         --> to cook
 - spelen        --> to play (game, ...)
 - kijken        --> to watch (tv, ...)
+- drinken       --> to drink
+- lezen         --> to read
+- poetsen       --> to brush teeth
+- aandoen       --> to put on (clothes, socks, ...)
+- werken        --> to work
+- gaan          --> to go
+- uitgaan       --> to go out
+- slapen        --> to sleep
 
 
 ### Time of the day
 - 's morgens    --> morning
+- de ochtend    --> in the morning
 - 's middags    --> afternoon
+- de namiddag   --> in the afternoon
+- de avond      --> in the evening
+- de nacht      --> in the night
+- tijdens       --> during the day
 ### Greetings
 
 
@@ -124,5 +139,9 @@
 - jij bent snel boos      --> you get very angry easily
 - hoe spel je dat?        --> how do you spell that?
 - ik eet elke dag ontbijten --> I eat breakfast every day
+- hoe heet jij            --> what's your name?
+- op welke dag ben je geboren?  --> on which day were you born
+- in welke gemeente woon jij?   --> in which mmunicipality do you live?
+- waar werk jij?                --> where do you work?
 
 
