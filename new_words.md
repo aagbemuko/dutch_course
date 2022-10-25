@@ -13,7 +13,8 @@
 - reizen          --> to travel
 - veel            --> a lot
 - huisman         --> househusband
-- echtgenoot      --> husband, spouse, partner
+- echtgenoot      --> wife, spouse, partner (feminine)
+- echtgenote      --> husband, spouse, partner (masculine)
 - zorg            --> to take care of
 - huishouden      --> household
 - leeftijd        --> age
@@ -21,16 +22,22 @@
 - vroeg           --> early
 - gezicht         --> face
 - handen          --> hands
+- ontbijtgranen   --> cereals
+- beroep          --> profession
+- vervooer        --> transport mode
 
 
 ### Pronouns
 - haar            --> her
+- zijn            --> his
+- hij/ze          --> he/she
 - allemaal        --> everything, everybody, altogether, ...
 - hun             --> their
 
 ### Prepositions/Adverbs
 - bij           --> by
-- on
+- in            --> in
+- op            --> on
 - met           -->  with
 - om            --> to, at, on...(context dependent)
 - mij           --> me
@@ -41,6 +48,8 @@
 - bijna         --> almost
 - waar          --> where
 - hoeveel       --> how many
+- heel          --> very
+- antworden       --> respond
 
 
 ### Verbs
@@ -145,3 +154,7 @@
 - waar werk jij?                --> where do you work?
 
 
+### Sentences to use
+- Ze woont bij mij
+- ik heb veel tantes en nonkels
+- ik heb veel neven en nichten
