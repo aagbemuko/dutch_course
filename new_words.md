@@ -3,6 +3,7 @@
 ## Words
 ---
 ### Generic words
+#### Generic generic words (words that cannot be necessarily classified)
 - verbeter        --> to correct
 - periode         --> period, time
 - straks          --> soon
@@ -12,9 +13,6 @@
 - buurt           --> neighborhood
 - reizen          --> to travel
 - veel            --> a lot
-- huisman         --> househusband
-- echtgenoot      --> wife, spouse, partner (feminine)
-- echtgenote      --> husband, spouse, partner (masculine)
 - zorg            --> to take care of
 - huishouden      --> household
 - leeftijd        --> age
@@ -25,6 +23,27 @@
 - ontbijtgranen   --> cereals
 - beroep          --> profession
 - vervooer        --> transport mode
+
+#### Relationships words
+- vrijgezel       --> single (as in relationship)
+- gescheiden      --> divorced
+- verloofd        --> engaged
+- huisman         --> househusband
+- echtgenoot      --> wife, spouse, partner (feminine)
+- echtgenote      --> husband, spouse, partner (masculine)
+
+#### Family (gezin) words
+- grootvader (opa)  --> grandfather
+- grootmoeder (oma) --> grandmother
+- vader (papa)      --> father
+- moeder (mama)     --> mother
+- nonkel            --> uncle (nonkels)
+- tante             --> aunt (tantes)
+- neef              --> nephew (neven)
+- nicht             --> niece (nichten)
+- schoonouders      --> parents in-laws
+- kleindochter      --> grand-daughter
+- kleinzoon         --> grand-son
 
 
 ### Pronouns
