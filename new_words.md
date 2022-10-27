@@ -47,13 +47,21 @@
 
 
 ### Pronouns
+- mijn            --> mine
 - haar            --> her
 - zijn            --> his
+- uw/jouw        --> your
+- ons/onze        --> our
+- hun             --> their
+- jullie          --> yours
 - hij/ze          --> he/she
 - allemaal        --> everything, everybody, altogether, ...
-- hun             --> their
+
 
 ### Prepositions/Adverbs
+- het           --> the
+- de            --> the
+- heet/heten    --> is called.../are called...
 - bij           --> by
 - in            --> in
 - op            --> on
