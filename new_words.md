@@ -23,6 +23,9 @@
 - ontbijtgranen   --> cereals
 - beroep          --> profession
 - vervooer        --> transport mode
+- antworden       --> respond
+- zwanger         --> pregnant
+- aangenam        --> 
 
 #### Relationships words
 - vrijgezel       --> single (as in relationship)
@@ -44,18 +47,20 @@
 - schoonouders      --> parents in-laws
 - kleindochter      --> grand-daughter
 - kleinzoon         --> grand-son
+- oudste            --> oldest
 
 
 ### Pronouns
 - mijn            --> mine
 - haar            --> her
 - zijn            --> his
-- uw/jouw        --> your
+- uw/jouw         --> your
 - ons/onze        --> our
 - hun             --> their
 - jullie          --> yours
 - hij/ze          --> he/she
 - allemaal        --> everything, everybody, altogether, ...
+- iets            -->
 
 
 ### Prepositions/Adverbs
@@ -71,12 +76,30 @@
 - maar          --> but
 - dus           --> so, thus, therefore, ...
 - dicht bij     --> close to..., near..., 
-- welke         --> which
 - bijna         --> almost
 - waar          --> where
 - hoeveel       --> how many
 - heel          --> very
-- antworden       --> respond
+- van           --> from/of 
+- omdat         --> because
+- moet          --> must
+
+### Question conjuction
+- welke         --> which
+- waar          --> where
+- hoe           --> how
+- wat           --> what
+- wanneer       --> when
+
+
+#### Adverbs for frequency of things
+- nooit             --> never
+- zelden            --> rarely
+- soms              --> sometimes
+- vaak              --> often
+- meestal           --> most of the time
+- altijd            --> always
+- makkelijk         --> easy
 
 
 ### Verbs
@@ -94,6 +117,11 @@
 - gaan          --> to go
 - uitgaan       --> to go out
 - slapen        --> to sleep
+- begrijpen     --> to understand
+- antwoorden    --> to answer
+- luisteren     --> to listen
+- schrijven     --> to write
+- vertellen     --> to narrate
 
 
 ### Time of the day
@@ -105,8 +133,6 @@
 - de nacht      --> in the night
 - tijdens       --> during the day
 ### Greetings
-
-
 
 ### Emotions
 
@@ -179,9 +205,11 @@
 - op welke dag ben je geboren?  --> on which day were you born
 - in welke gemeente woon jij?   --> in which mmunicipality do you live?
 - waar werk jij?                --> where do you work?
+- waar kom je vandaan           --> 
 
 
 ### Sentences to use
 - Ze woont bij mij
 - ik heb veel tantes en nonkels
 - ik heb veel neven en nichten
+- Ik heb nog geen afstandswerk gekregen — I have not received the homework
