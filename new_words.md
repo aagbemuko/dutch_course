@@ -26,6 +26,7 @@
 - antworden       --> respond
 - zwanger         --> pregnant
 - aangenam        --> 
+- versta          --> understand (not in the literal sense e.g. not understanding because they are speaking loud; this is the context)
 
 #### Relationships words
 - vrijgezel       --> single (as in relationship)
@@ -83,6 +84,9 @@
 - van           --> from/of 
 - omdat         --> because
 - moet          --> must
+- Als           --> if
+- zal           --> shall
+- tijdens       --> during
 
 ### Question conjuction
 - welke         --> which
@@ -122,6 +126,8 @@
 - luisteren     --> to listen
 - schrijven     --> to write
 - vertellen     --> to narrate
+- Kunnen        --> can
+- willen        --> to want
 
 
 ### Time of the day
@@ -213,3 +219,7 @@
 - ik heb veel tantes en nonkels
 - ik heb veel neven en nichten
 - Ik heb nog geen afstandswerk gekregen — I have not received the homework
+- wat betekent_______? --> what does _______ mean?
+- Mag ik iets vragen, alstublieft? --> can I ask you some questions, please?
+- mag ik een vraag stellen --> can I ask you a question?
+- hoe zeg je____ in het nederlands --> how do you say/pronounce____in dutch
