@@ -4,6 +4,8 @@
 ---
 ### Generic words
 #### Generic generic words (words that cannot be necessarily classified)
+- enkelvoud       --> singular
+- meervoud        --> plural
 - verbeter        --> to correct
 - periode         --> period, time
 - straks          --> soon
@@ -27,6 +29,7 @@
 - zwanger         --> pregnant
 - aangenam        --> 
 - versta          --> understand (not in the literal sense e.g. not understanding because they are speaking loud; this is the context)
+- klank           --> sound
 
 #### Relationships words
 - vrijgezel       --> single (as in relationship)
@@ -61,7 +64,8 @@
 - jullie          --> yours
 - hij/ze          --> he/she
 - allemaal        --> everything, everybody, altogether, ...
-- iets            -->
+- iets            --> something
+- algemeen        --> any
 
 
 ### Prepositions/Adverbs
@@ -128,6 +132,7 @@
 - vertellen     --> to narrate
 - Kunnen        --> can
 - willen        --> to want
+- vergelijken   --> to compare
 
 
 ### Time of the day
