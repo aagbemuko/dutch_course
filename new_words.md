@@ -151,7 +151,7 @@
 - willen        --> to want
 - vergelijken   --> to compare
 - herhalen      --> to repeat (e.g. for lack of understanding)
-- betekenen     --> to mean, to signify (e.g. what does it mean)
+- betekenen     --> to mean, to signify (e.g. what does it mean?)
 
 
 ### Time of the day
