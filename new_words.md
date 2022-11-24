@@ -30,6 +30,9 @@
 - aangenam        --> 
 - versta          --> understand (not in the literal sense e.g. not understanding because they are speaking loud; this is the context)
 - klank           --> sound
+- lichaam         --> body
+- bekend          --> famous, celebrity, familiar...
+- onbetekend      --> not famous
 
 #### Relationships words
 - vrijgezel       --> single (as in relationship)
@@ -88,16 +91,12 @@
 - van           --> from/of 
 - omdat         --> because
 - moet          --> must
-- Als           --> if
+- Als           --> as, if
+- net zo        --> as
 - zal           --> shall
 - tijdens       --> during
-
-### Question conjuction
-- welke         --> which
-- waar          --> where
-- hoe           --> how
-- wat           --> what
-- wanneer       --> when
+- graag         --> gladly (with pleasure)
+- even          --> same as, equally
 
 
 #### Adverbs for frequency of things
@@ -107,7 +106,25 @@
 - vaak              --> often
 - meestal           --> most of the time
 - altijd            --> always
-- makkelijk         --> easy
+
+
+### Question conjuction
+- welke         --> which
+- waar          --> where
+- hoe           --> how
+- wat           --> what
+- wanneer       --> when
+
+
+### Comparisons
+- goed                    --> beter
+- weinig (few/less)       --> minder (fewer/lesser)
+- graag (gladly)          --> liever (preferably)
+- veel (a lot)            --> meer (a lot more)
+- luid (loud)             --> luider (louder)
+- traag (slow)            --> trager (slower)
+
+
 
 
 ### Verbs
@@ -133,6 +150,8 @@
 - Kunnen        --> can
 - willen        --> to want
 - vergelijken   --> to compare
+- herhalen      --> to repeat (e.g. for lack of understanding)
+- betekenen     --> to mean, to signify (e.g. what does it mean)
 
 
 ### Time of the day
@@ -158,6 +177,13 @@
 - gezellig      --> cosy
 - mooi          --> pretty
 - heel          --> very
+- duur          --> expensive
+- goedkoop      --> cheap
+- makkelijk     --> easy
+- stil          --> quiet, silent
+- luid          --> loud
+- traag         --> slow
+- langzaam      --> slowly
 
 ### Colors
 
@@ -217,6 +243,7 @@
 - in welke gemeente woon jij?   --> in which mmunicipality do you live?
 - waar werk jij?                --> where do you work?
 - waar kom je vandaan           --> 
+- Ik spreek nog niet goed nederlands
 
 
 ### Sentences to use
