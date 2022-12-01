@@ -33,6 +33,7 @@
 - lichaam         --> body
 - bekend          --> famous, celebrity, familiar...
 - onbetekend      --> not famous
+- het landschap
 
 #### Relationships words
 - vrijgezel       --> single (as in relationship)
