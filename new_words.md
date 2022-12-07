@@ -33,7 +33,14 @@
 - lichaam         --> body
 - bekend          --> famous, celebrity, familiar...
 - onbetekend      --> not famous
-- het landschap
+- landschap       --> landscape
+- eretitel        --> honorary title
+- ken             --> knowledge
+- verdieping      --> floor (as in a house), storey
+- kelder          --> cellar
+- zon             --> sun
+- jas             --> jacket
+
 
 #### Relationships words
 - vrijgezel       --> single (as in relationship)
@@ -73,14 +80,15 @@
 
 
 ### Prepositions/Adverbs
-- het           --> the
-- de            --> the
+- het, de       --> the
+- dat, die      --> that
 - heet/heten    --> is called.../are called...
 - bij           --> by
 - in            --> in
 - op            --> on
 - met           -->  with
 - om            --> to, at, on...(context dependent)
+- aan           --> at
 - mij           --> me
 - maar          --> but
 - dus           --> so, thus, therefore, ...
@@ -98,6 +106,10 @@
 - tijdens       --> during
 - graag         --> gladly (with pleasure)
 - even          --> same as, equally
+- dezelfde      --> the same
+- ernaast       --> beside it, next to it
+- meerdere      --> several
+
 
 
 #### Adverbs for frequency of things
@@ -153,6 +165,7 @@
 - vergelijken   --> to compare
 - herhalen      --> to repeat (e.g. for lack of understanding)
 - betekenen     --> to mean, to signify (e.g. what does it mean?)
+- liggen        --> to lay down
 
 
 ### Time of the day
